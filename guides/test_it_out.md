@@ -103,7 +103,7 @@ const collection = await agent.deployCollection({
 - **Solution:** Verify internet connection and Solana RPC endpoint accessibility
 
 ### Agent Issues
-
+- **Solution:** Check `.env` file for all required variables.fix
 #### Startup Problems
 - **Issue:** Agent doesn't prompt for mode selection
 - **Solution:** Verify successful build and dependency installation 
